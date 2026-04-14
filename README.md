@@ -1,3 +1,4 @@
+![logo](https://github.com/BriefJarl/BriefJarl/blob/main/Github_banner1.png)
 <h1 align="center">Hey there 👋 I'm Bhumika Shaw</h1>
 <h3 align="center">Full Stack Developer | Backend Systems | AI Enthusiast</h3>
 
