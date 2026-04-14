@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briefjarl&label=Profile%20views&color=0e75b6&style=flat" alt="briefjarl" /> </p>
 
 
-- 🔭 I’m currently working on🔭 I’m currently working on Vaani Verse — an AI-powered voice-first productivity system with intelligent task lifecycle management and scalable backend architecture. [Vaani Verse — Agentic AI Voice Productivity System](https://github.com/BriefJarl/VAANI-VERSE-AI-GIT)
+- 🔭 I’m currently working on Vaani Verse — an AI-powered voice-first productivity system with intelligent task lifecycle management and scalable backend architecture. [Vaani Verse — Agentic AI Voice Productivity System](https://github.com/BriefJarl/VAANI-VERSE-AI-GIT)
 
 - 🌱 Currently sharpening my skills in **backend engineering, machine learning, and DSA**
 
