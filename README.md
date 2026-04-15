@@ -106,19 +106,18 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" style="margin:5px"/>
 
 <br>
+<h3 align="center">📊 GitHub Stats</h3>
 
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BriefJarl&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BriefJarl&layout=compact&theme=tokyonight" />
 
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BriefJarl&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriefJarl&layout=compact&theme=radical" />
-</p>
+<img src="https://streak-stats.demolab.com?user=BriefJarl&theme=tokyonight&hide_border=true" height="180"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BriefJarl&theme=radical" />
 </p>
