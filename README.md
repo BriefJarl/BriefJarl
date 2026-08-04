@@ -56,13 +56,19 @@
 | **🎨 Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" title="React">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="28" title="Next.js">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="28" title="Angular">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="28" title="Bootstrap">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="28" title="Tailwind CSS">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="28" title="Flutter">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" title="React Native"> |
 | **☁️ Cloud & DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" title="AWS">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="28" title="Azure">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="28" title="Firebase">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" title="Docker"> |
 | **🛠️ Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" title="Git">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" title="GitHub">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" title="VS Code">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="28" title="IntelliJ IDEA">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" title="Postman">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" title="Linux">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="28" title="Ubuntu">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="28" title="Bash">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="28" title="Selenium"> |
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BriefJarl&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BriefJarl&layout=compact&theme=tokyonight" />
-
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=BriefJarl&show_icons=true&theme=tokyonight"
+    width="49%"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BriefJarl&layout=compact&theme=tokyonight"
+    width="41%"
+    height="180"
+  />
 </p>
 
