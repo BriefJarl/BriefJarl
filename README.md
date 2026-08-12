@@ -60,15 +60,18 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=BriefJarl&show_icons=true&theme=tokyonight"
-    width="49%"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BriefJarl&layout=compact&theme=tokyonight"
-    width="41%"
-    height="180"
-  />
+  <a href="https://github.github.com/">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=BriefJarl&show_icons=true&theme=tokyonight"
+      height="180"
+      alt="Bhumika's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/BriefJarl">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=BriefJarl&layout=compact&theme=tokyonight"
+      height="180"
+      alt="Bhumika's Top Languages"
+    />
+  </a>
 </p>
-
