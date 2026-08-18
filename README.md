@@ -69,7 +69,7 @@
   </a>
   <a href="https://github.com/BriefJarl">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=BriefJarl&layout=compact&theme=tokyonight"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=BriefJarl&layout=compact&langs_count=6&exclude_repo=Book-Analysis-Dashboard&theme=tokyonight"
       height="180"
       alt="Bhumika's Top Languages"
     />
